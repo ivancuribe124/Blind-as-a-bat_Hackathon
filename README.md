@@ -1,8 +1,9 @@
 ﻿# Blind-as-a-bat_Hackathon
 ### Prototype Screenshots
 
-![Home Screen](images/screenshot1.png)
+![Home Screen](images/20261002_180953017_iOS.jpg)
 
-![Dashboard View](images/screenshot2.png)
+![Dashboard View](images/20261002_202145366_iOS.jpg)
 
-![Settings Panel](images/screenshot3.png)
+![Settings Panel](images/20261003_165358590_iOS.jpg)
+
