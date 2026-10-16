@@ -1,5 +1,5 @@
 ﻿# Blind-as-a-bat_Hackathon
-### Prototype Photos
+### Prototype Images
 
 <p align="center">
   <img src="images/20261003_165358590_iOS.jpg" width="400" alt="Home Screen" />
